@@ -8,6 +8,7 @@ I've been coding for three years and I took a professional education in web prog
 
 * 🌍  I'm based in Tashkent
 * ✉️  You can contact me at [elitedev2000@gmail.com](mailto:elitedev2000@gmail.com)
+* 🖥️  See my portfolio at [here](http://elitedev.netlify.app)
 * 🧠  I'm learning Astro and Svelte
 * ⚡  I am very, very kind... But don't tell anyone😉!
 
