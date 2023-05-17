@@ -1,8 +1,7 @@
-Hi! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"> I am Umidjon Khasanov 
-<br> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-
-I am Frontend Developer <br> 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+Hi! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">  My name is Umidjon Khasanov
+=================================
+I am Frontend Developer
+-----------------------
 
 I've been coding for three years and I took a professional education in web programming 1 year ago. My interest in this direction was formed long ago and I chose to become a frontend developer because of the desire to create awesome websites.
 
